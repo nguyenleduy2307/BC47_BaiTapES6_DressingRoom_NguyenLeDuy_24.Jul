@@ -1,0 +1,1 @@
+const DOMAIN = 'https://64978eb99543ce0f49e1465e.mockapi.io/DressingRoom';
